@@ -1,0 +1,15 @@
+server:
+  port: 10010
+
+logging:
+  pattern:
+    console:
+
+spring:
+  application:
+    name: backup
+  main:
+    banner-mode: off
+#    shell:
+#      history:
+#        enabled: false
